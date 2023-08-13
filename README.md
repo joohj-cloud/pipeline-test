@@ -1,4 +1,3 @@
 # pipeline-test
 
-test webhook
-test
+webhook test
