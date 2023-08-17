@@ -1,4 +1,2 @@
 # pipeline-test
-
-
-testdata
+test
