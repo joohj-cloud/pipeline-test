@@ -1,3 +1,2 @@
 # pipeline-test
-s
-sd
+test
