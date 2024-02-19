@@ -1,2 +1,3 @@
 # pipeline-test
-test
+
+auto execution
